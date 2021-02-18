@@ -1,0 +1,8 @@
+body {
+  background: #ddd;
+  background-image: url(img/767ea42ccffc673a412558e00916feb1.jpg);
+}
+body p {
+  font-size: 20px;
+  color: red;
+}
